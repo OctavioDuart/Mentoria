@@ -1,0 +1,80 @@
+Algoritimos : 
+
+Um algoritimo é o resultado de uma sequência de passo a passo até um determinado objetivo, na
+qual cada etapa tem uma importância fundamental para esse propósito, ou seja, uma etapa desse
+algoritimo não pode ser irrelevante ela tem que ter SENTIDO, OBJETIVO e NÃO SER REDUNDANTE .
+
+Executamos algoritimos o tempo todo no nosso dia a dia , como por exemplo comer um chocolate :
+
+- Pegar o chocolate
+- Abrir a embalagem 
+- Comer o chocolate 
+- Jogar a embalagem no lixo 
+
+Repare que são 4 passos simples com propósito, objetivo e não redundantes . 
+
+
+Programas : 
+
+Programas ou softwares são algoritimos escritos em uma linguagem compreensivel para computadores
+e interpretada e executada por eles . 
+
+As fases de um programa são 
+
+ENTRADA  - PROCESSAMENTO - SAÍDA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

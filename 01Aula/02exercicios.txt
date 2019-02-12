@@ -1,0 +1,34 @@
+Escreva algoritimos para as seguintes situações : 
+
+- Atravessar a rua
+- Tomar banho 
+- Ligar um carro 
+
+
+Siga como referência o seguinte exemplo :
+
+Algoritimo para escovar os dentes : 
+
+__________________________________________________________
+Programa EscovarOsDentes
+
+inicio
+
+    - Pegar a escova de dentes
+    - Ligar a torneira
+    - Higienizar a escova na água da torneira
+    - Desligar a torneira
+    - Pegar o creme dental
+    - Abrir  o creme dental
+    - Espremer o creme dental nas cédulas da escova
+    - Fechar o creme dental
+    - Esfregar as cédulas da escova nos dentes  
+    - Ligar a torneira
+    - Enxaguar a boca
+    - Fechar a torneira
+    - Guardar  a escova de dentes
+    - Guardar  o creme dental
+
+fim
+
+__________________________________________________________
