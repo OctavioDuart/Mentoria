@@ -1,0 +1,47 @@
+Use esse arquvivo como base para fazer as correções necessárias : 
+
+
+1º Ponto - RESPEITAR A SINTAXE DO ALGORITIMO :
+
+Ao declarar um algoritimo foi estabelecido nos arquivos de exemplo que o mesmo deve ter um início e fim, que a primeira 
+palavra de cada etapa começa com sua letra maiuscula e que haja indentação. Pode parecer desnecessário, mas todas as 
+linguagens exigem que regras de escritas sejam respeitadas, inclusive existem linguagens que por um  " ; "  não compilam e 
+geram diversos erros. Por tanto respeite as regras que o algoritimo exige . 
+
+_____________________________________________________________________________________________________________________________
+
+2º Ponto - OBJETIVIDADE NAS ETAPAS : 
+
+Tenha em mente que o desenvolvimento de um software podem exigir milhares de linhas e cabe a nós programadores fazer com que
+o código não fique redundante ou com trechos desnecessários. Por exemplo : 
+
+-Olhar para o lado direito pra ver se está vindo carro
+-Olha para o lado esquerdo
+
+
+Pode ser substituido por :
+
+- Olhar para ambos os lados e verificar se estão vindo veículos .
+
+Entenda que poupamos uma linha , deixamos a etapa mais objetiva e como uma cereja para o bolo verificamos se estão vindo 
+veículos, porque não são somente com os carros que devemos nos preocupar , certo ?! . 
+
+_____________________________________________________________________________________________________________________________
+
+3º Ponto - MAPA MENTAL : 
+
+Existem programadores mais experientes que mapeiam mentalmente a solução do problema a ser solucionado
+( https://imasters.com.br/desenvolvimento/ja-pensou-em-fazer-mapas-mentais-para-programar ) com o intuito de 
+chegar no objetivo de forma mais rápida e qualificada . Programadores solucionam problemas então sempre que um problema cair
+em suas mãos talvez seja uma boa ideia , parar por alguns poucos instantes mapear o passo a passo da resolução e ai sim por a
+mão na massa . 
+
+_____________________________________________________________________________________________________________________________
+
+Por que essa chatice toda ? 
+
+Simplesmente porque o segredo de todo bom programador é a lógica e a total compreensão de uma boa prática nos códigos, existe
+um estudo que diz que hoje os profissionais de desenvolvimento passam mais tempo corrigindo erros do que desenvolvendo novas
+soluções, partindo dessa ideia o ideal é ser diferenciado em meio a tantos desenvolvedores com péssimos hábitos por ai . 
+
+_____________________________________________________________________________________________________________________________
