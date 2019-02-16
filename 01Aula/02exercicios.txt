@@ -24,6 +24,7 @@ inicio
     - Fechar o creme dental
     - Esfregar as cédulas da escova nos dentes  
     - Ligar a torneira
+    - Enxaguar a escova
     - Enxaguar a boca
     - Fechar a torneira
     - Guardar  a escova de dentes
