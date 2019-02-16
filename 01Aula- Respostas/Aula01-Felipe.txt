@@ -1,0 +1,96 @@
+Algoritmo Atravessar a rua
+
+__________________________________________________________
+Programa AtravessarARua
+
+-Procurar uma faixa de pedestres
+-Ir até a faixa de pedestres
+-Esperar o sinal verde dos pedestres
+-Checar se os sinal esta vermelho para os carros
+-Checar se a rua é de mão dupla, pois o cuidado deve ser maior
+-Olhar para o lado direito pra ver se está vindo carro
+-Olha para o lado esquerdo
+-Caso o sinal esteja fechado para os carros, verde para os pedestres e todos os itens anteriores estejam "okays"
+-Caminhar atentamente para o outro lado da rua
+
+fim
+
+__________________________________________________________
+
+Algoritmo Tomar Banho
+
+__________________________________________________________
+Programa TomarBanho
+
+-Pegar a toalha
+-Pegar o sabonete
+-Pegar o shampoo
+-Pegar a bucha
+-Pegar as roupas limpas
+-Ir ao banheiro
+-Abrir a porta
+-Fechar e trancar a porta
+-Pendurar as roupas limpas
+-Pendurar a toalha
+-Colocar o shampoo em cima da pia
+-Deixar o sabonete e a bucha no porta sabonete
+-Tirar as roupas sujas
+-Abrir o cesto de roupas sujas
+-Colocar as roupas sujas
+-Fechar o cesto
+-Caminhar até o chuveiro e pegar o shampoo
+-Passar o shampoo no cabelo e esfregar
+-Deixar o shampoo na pia
+-Abrir o boxe do banheiro
+-Entrar e fechar o boxe
+-Ligar o chuveiro
+-Garantir que esteja na temperatura ideal
+-Ficar sob a água
+-Esfregar mais o cabelo
+-Enxaguar a cabeça
+-Garantir que o shampoo tenha saído e o cabelo esteja limpo
+-Pegar o Sabonete
+-Pegar a bucha
+-Passar o sabonete na bucha
+-Esfregar a bucha pelo corpo para tirar as sujeiras e suor do corpo
+-Enxaguar o corpo e garantir que a espuma tenha saído e que o corpo esteja limpo
+-Guardar o sabonete e a bucha na porta sabonete
+-Desligar o chuveiro
+-Pegar a toalho que esta pendurada
+-abrir o boxe
+-fechar o boxe
+-Secar o corpo com a toalha
+-Pegar as roupa penduradas
+-Colocar as roupas limpas
+-Guardar o shampoo
+-Pendurar a toalha
+-Destrancar e abrir a porta
+
+fim
+
+__________________________________________________________
+
+Algoritmo Ligar Carro
+
+__________________________________________________________
+Programa Ligar Carro
+
+-Pegar a chave do carro
+-Ir até o carro
+-Colocar a chave na fechadura
+-Rodar a chave para o lado esquerdo
+-Abrir a porta puxando a maçaneta
+-Retirar e pegar a chave
+-Entrar e sentar no banco do carro no local do condutor
+-Colacar a chave na ignição
+-Girar a chave para direita
+-ligar o carro
+
+fim
+
+__________________________________________________________
+
+
+
+
+
